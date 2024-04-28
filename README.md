@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BOOOOOOOOOOOOOOOOOOOOOOM
+- 🌱 I’m currently learning Unreal.
+- 💞️ I’m looking to collaborate on small game projects or game jams.
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I once created a game entirely by myself in just one weekend for a game jam.
